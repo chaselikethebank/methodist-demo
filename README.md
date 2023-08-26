@@ -1,6 +1,6 @@
 # Woodlands Demo
 
-Demo for Weedlands Methodist Church
+Demo for Woodlands Methodist Church
 
 ## Installation
 
